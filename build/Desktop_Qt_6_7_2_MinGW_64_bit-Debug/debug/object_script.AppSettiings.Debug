@@ -1,0 +1,10 @@
+debug/main.o
+debug/mainwindow.o
+debug/preferencesdialog.o
+debug/generaltab.o
+debug/hotkeystab.o
+debug/qrc_AppSettings.o
+debug/moc_mainwindow.o
+debug/moc_preferencesdialog.o
+debug/moc_generaltab.o
+debug/moc_hotkeystab.o

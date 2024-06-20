@@ -1,0 +1,10 @@
+release/main.o
+release/mainwindow.o
+release/preferencesdialog.o
+release/generaltab.o
+release/hotkeystab.o
+release/qrc_AppSettings.o
+release/moc_mainwindow.o
+release/moc_preferencesdialog.o
+release/moc_generaltab.o
+release/moc_hotkeystab.o
